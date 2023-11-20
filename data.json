@@ -1,0 +1,30 @@
+{
+  "name": "Aristos Xanthus",
+  "avatar": "https://avatars.githubusercontent.com/u/92493374?v=4",
+  "links": [
+    {
+      "title": "MySyllabi",
+      "href": "https://mysyllabi.up.railway.app",
+      "image": "https://mysyllabi.up.railway.app/favicon.ico"
+    },
+    {
+      "title": "Google",
+      "href": "https://google.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/c1/20230822192910%21Google_%22G%22_logo.svg/118px-Google_%22G%22_logo.svg.png"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/AristosX"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/axanthus"
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://linkedin.com/in/axanthus"
+    }
+  ]
+}
